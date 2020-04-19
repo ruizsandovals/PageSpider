@@ -9,5 +9,5 @@ def load_page(url: str):
 
 
 def scrape_page(page_contents: str):
-    # TODO: analyze the text
+    # TODO: analyze the texts
     pass
